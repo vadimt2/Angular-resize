@@ -4,4 +4,5 @@ This project will show you how to use function service on Load.
 Create custom derctive.
 @Input and @Output and HostListener.
 Small project that show how is angular is powerful!
-Don't forget npm i!.
+Don't forget npm i  !.
+https://stackblitz.com/@vadimt2
